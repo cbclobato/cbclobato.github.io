@@ -5,9 +5,11 @@ order: 5
 ---
 
 <br>
-
-<div id="articles">
+  <!-- <h1 class="pageTitle">Research</h1> -->
   <!-- <h1>Research</h1> -->
+  
+<div id="articles">
+
   <ul class="posts noList">
     {% for post in site.posts %}
       <li>
