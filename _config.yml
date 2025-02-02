@@ -1,67 +1,42 @@
-# Site configuration
-# 1. Files excluded from Jekyll builds
-# 2. Installed Gems
-# 3. Gem settings
-# 4. Jekyll settings
-# 5. Collections
-# 6. Jekyll collections settings
-# 7. Site settings
+# Set theme
+# remote_theme: daviddarnes/garth
 
-# 1. Files excluded from Jekyll builds
+# File excludes
 exclude:
-- README.md
-- CODE_OF_CONDUCT.md
-- CONTRIBUTING.md
-- screenshot.png
-- LICENSE
-- CNAME
-- Gemfile
-- Gemfile.lock
-- garth-jekyll-theme.gemspec
+  - README.md
+  - Gemfile
+  - Gemfile.lock
 
-# 2. Installed Gems
+# Set plugins
 plugins:
-- jekyll-paginate
+  - jekyll-paginate
+  - jekyll-remote-theme
 
-# 3. Gem settings
-paginate: 2 # jekyll-paginate > items per page
-paginate_path: page:num # jekyll-paginate > blog page
+# Site settings
+url: https://cbclobato.github.io
+baseurl: ""
+title: "Carolina Lobato"
+description: "This is my new page"
+permalink: pretty
+logo: "/assets/carolina-lobato.jpg"
 
-# 4. Jekyll settings
-sass:
-  style: compressed # Style compression
-permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
-excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: Europe/London # Timezone for blog posts and alike
+# if you don't have any of social below, comment the line
+# scholar: yoururlgoeshere
+github: cbclobato
+twitter: cbclobato
+linkedin: carolina-lobato
 
-# 5. Collections
+# facebook: myfacebook
+# instagram: myinstagram
+# email: carolinabclobato @gmail.com
+
+# Pagination
+paginate: 5
+paginate_path: about/page:num
+
+# Collections
 collections:
   posts:
-    title: Blog # Needed for Siteleaf
+    title: About
     output: true
-    description: "This is merely a demo, find out more [about Garth](about)" # The post list page content
-
-# 6. Jekyll collections settings
-defaults:
-  -
-    scope:
-      path: ""
-      type: pages
-    values:
-      layout: page # Default layout
-  -
-    scope:
-      path: ""
-      type: posts
-    values:
-      layout: post # Default layout
-
-# 7. Site settings
-encoding: utf-8 # Make sure the encoding is right
-title: "Garth" # Site name or title
-logo: "/assets/logo.svg" # Site logo
-# favicon: "/favicon.ico" # Uncomment to add custom favicon, or leave as is to use site logo
-description: "A really basic theme for Jekyll, using the official Jekyll theme implementation" # Site description and default description
-url: "https://garth.darn.es" # Site url
-baseurl: ""
-lang: en-GB
+    description: "There isn't much going on here yet, but watch this space"
