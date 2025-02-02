@@ -2,16 +2,16 @@ Personal website modified from [Garth](https://garth.darn.es/) with a really bas
 
 [![Gem Version](https://badge.fury.io/rb/garth-jekyll-theme.svg)](https://badge.fury.io/rb/garth-jekyll-theme)
 
-## Contents
+### Contents
 - [Installation](#installation)
 - [Customising](#customising)
 - [Site settings](#site-settings)
 - [Page layouts](#page-layouts)
 - [Credits](#credits)
 
-## Installation
+### Installation
 
-### Quick setup
+#### Quick setup
 
 To give you a running start I've put together some starter kits that you can download, fork or even deploy immediately:
 
@@ -22,7 +22,7 @@ To give you a running start I've put together some starter kits that you can dow
 - GitHub Pages with remote theme kit:
   **[Download kit](https://github.com/daviddarnes/garth-kit/archive/remote-theme.zip)**
 
-### As a Jekyll theme
+#### As a Jekyll theme
 
 1. Add `gem "garth-jekyll-theme"` to your `Gemfile` to add the theme as a dependancy
 2. Run the command `bundle install` in the root of project to install the theme and its dependancies
@@ -30,7 +30,7 @@ To give you a running start I've put together some starter kits that you can dow
 4. Run `bundle exec jekyll serve` to build and serve your site
 5. Done! Use the example [`_config.yml`](https://github.com/daviddarnes/garth/blob/master/_config.yml) file to set site-wide options
 
-### As a GitHub Pages remote theme
+#### As a GitHub Pages remote theme
 
 1. Add `gem "jekyll-remote-theme"` to your `Gemfile` to add the theme as a dependancy
 2. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
@@ -39,7 +39,7 @@ To give you a running start I've put together some starter kits that you can dow
 5. Run `bundle exec jekyll serve` to build and serve your site
 6. Done! Use the example [`_config.yml`](https://github.com/daviddarnes/garth/blob/master/_config.yml) file to set site-wide options
 
-### As a Boilerplate / Fork
+#### As a Boilerplate / Fork
 
 _(deprecated, not recommended)_
 
@@ -50,7 +50,7 @@ _(deprecated, not recommended)_
 5. Run `bundle exec jekyll serve` to build and serve your site
 6. Done! Use the example [`_config.yml`](https://github.com/daviddarnes/garth/blob/master/_config.yml) file to set site-wide options
 
-## Customising
+### Customising
 
 When using Garth as a theme means you can take advantage of the file overriding method. This allows you to overwrite any file in this theme with your own custom file, by matching the file name and path. The most common example of this would be if you want to add your own styles or change the core style settings.
 
@@ -58,17 +58,17 @@ To add your own styles copy the [`styles.scss`](https://github.com/daviddarnes/g
 
 If you're looking to set your own colours copy the [`_colors.scss`](https://github.com/daviddarnes/garth/blob/master/_sass/_colors.scss) and main theme styles file [`garth.scss`](https://github.com/daviddarnes/garth/blob/master/_sass/garth.scss) into your project at the same file path (`_sass/`) and change variables however you wish. The settings are a mixture of custom variables and settings from [Sassline](https://medium.com/@jakegiltsoff/sassline-v2-0-e424b2881e7e) - follow the link to find out how to configure the typographic settings.
 
-## Site settings
+### Site settings
 
 You'll need to change the `description`, `title` and `url` to match with the project.
 
-## Page layouts
+### Page layouts
 
 There are 3 layouts; `page`, `post` and `home` (home acts as the font page blog).
 
 > **Note:** The Post List Page options are actually in the collection data within the `_config.yml` file, this is so they can be edited with CMSs such as [Siteleaf](https://siteleaf.com)
 
-## Credits
+### Credits
 
 - Thanks to [Sassline](https://sassline.com/) for the typographic basis, by [Jake Giltsoff](https://twitter.com/jakegiltsoff)
 - Thanks to [Flexbox mixin](https://github.com/mastastealth/sass-flex-mixin) by [Brian Franco](https://twitter.com/brianfranco)
