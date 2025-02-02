@@ -1,11 +1,6 @@
-# [Garth](https://garth.darn.es/)
+Personal website modified from [Garth](https://garth.darn.es/) with a really basic theme for Jekyll, using the official Jekyll theme implementation.
+
 [![Gem Version](https://badge.fury.io/rb/garth-jekyll-theme.svg)](https://badge.fury.io/rb/garth-jekyll-theme)
-
-🥁 A really basic theme for Jekyll, using the official Jekyll theme implementation.
-
-[<img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" width="217"/>](https://buymeacoffee.com/daviddarnes#support)
-
-![Screenshot](https://raw.githubusercontent.com/daviddarnes/garth/master/screenshot.png)
 
 ## Contents
 - [Installation](#installation)
