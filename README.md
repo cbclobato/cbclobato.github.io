@@ -2,7 +2,7 @@ This web page uses [Garth](https://github.com/daviddarnes/garth) as a Jekyll the
 
 To install Jekyll locally, follow: [https://jekyllrb.com/docs/installation/](https://jekyllrb.com/docs/installation/).
 
-## Previewing / Running locally
+### Previewing / Running locally
 
     jekyll serve --baseurl ""
 
