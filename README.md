@@ -1,6 +1,6 @@
 This web page uses [Garth](https://github.com/daviddarnes/garth) as a Jekyll theme gem, which renders a HTML page accessible at [cbclobato.github.io](https://cbclobato.github.io).
 
-To install Jekyll locally, follow: [https://jekyllrb.com/docs/installation/](https://jekyllrb.com/docs/installation/).
+To install Jekyll locally, follow: [jekyllrb.com/docs/installation/](https://jekyllrb.com/docs/installation/).
 
 ### Previewing / Running locally
 
