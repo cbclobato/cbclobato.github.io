@@ -1,6 +1,13 @@
-### Starter kit for [Garth](https://garth.darn.es/)
+This web page uses [Garth](https://github.com/daviddarnes/garth) as a Jekyll theme gem, which renders a static HTML page accessible at [cbclobato.github.io](https://cbclobato.github.io).
 
-This is a straightforward starting point to use Garth [as a Jekyll theme gem](https://garth.darn.es/about/#as-a-jekyll-theme) or as a [GitHub Pages remote theme](https://github.com/daviddarnes/garth-kit/tree/remote-theme) (see `remote-theme` branch).
+To install Jekyll locally, follow: [https://jekyllrb.com/docs/installation/](https://jekyllrb.com/docs/installation/).
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/garth-kit) or
-**[Download the GitHub Pages kit](https://github.com/daviddarnes/garth-kit/archive/remote-theme.zip)**
+## Maintaining / Updating
+
+All content is decoupled from the HTML/layout and should be edited in `_config.yml` and `_data/talks.yml`. Speaker photos should go in `assets/speakers/` if available.
+
+## Previewing / Running locally
+
+    jekyll serve --baseurl ""
+
+Where the `--baseurl` option overwrites the GitHub-specific path, and makes the page preview available (typically) at http://127.0.0.1:4000/
