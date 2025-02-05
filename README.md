@@ -2,10 +2,6 @@ This web page uses [Garth](https://github.com/daviddarnes/garth) as a Jekyll the
 
 To install Jekyll locally, follow: [https://jekyllrb.com/docs/installation/](https://jekyllrb.com/docs/installation/).
 
-## Maintaining / Updating
-
-All content is decoupled from the HTML/layout and should be edited in `_config.yml` and `_data/talks.yml`. Speaker photos should go in `assets/speakers/` if available.
-
 ## Previewing / Running locally
 
     jekyll serve --baseurl ""
