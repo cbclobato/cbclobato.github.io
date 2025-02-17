@@ -24,7 +24,7 @@ To test its potential, we reintroduced *B. frigoritolerans* C1141 to *Cannabis* 
 <br>
 Our findings underscore the critical role of seed microbiomes in plant fitness and highlight the need for breeding programs to consider microbial conservation. Instead of relying solely on synthetic fertilizers and pesticides, integrating beneficial microbes into agricultural systems could enhance plant resilience while reducing chemical inputs.
 
-Although my study focused on *Cannabis*, similar microbial shifts have been observed in other domesticated crops, suggesting broader implications for global agriculture. Future research should explore how microbiome restoration strategies can be applied across different plant species to promote sustainable and resilient farming.
+Although this study focused on *Cannabis*, similar microbial shifts have been observed in other domesticated crops, suggesting broader implications for global agriculture. Future research should explore how microbiome restoration strategies can be applied across different plant species to promote sustainable and resilient farming.
 
 By recognizing seeds as both genetic and microbial reservoirs, we can rethink breeding strategies and harness the full potential of plant-microbe interactions. This approach offers a promising path toward ecologically sound and productive agricultural systems — one where beneficial microbes play as important a role as the plants themselves.
 
