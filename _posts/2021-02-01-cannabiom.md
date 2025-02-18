@@ -12,6 +12,7 @@ Recent studies suggest that microorganisms naturally found in plant seeds could 
 
 This project will identify key endophytes in various *Cannabis* genotypes via advanced multidisciplinary techniques, and investigate the use of a fully biodegradable hydrous polymer to deliver these beneficial microbes into cultivation systems. The ultimate goal is to create an innovative, bio-based product that improves microbial diversity in *Cannabis* farming, showcasing broader agricultural benefits in the process. The use of *Cannabis* seed endophytes presents an exciting new biotechnological solution to meet the growing global demand for *Cannabis* products, offering a sustainable approach to cultivation that could transform the industry.
 
+<br>
 <center><img src="{{ site.baseurl }}/assets/cannabiom2.png" class="img-thumbnail" width="300" height=auto alt="..."></center>
 
 <br>
