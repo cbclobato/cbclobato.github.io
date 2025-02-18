@@ -12,7 +12,7 @@ In our research, we investigated how domestication has shaped the seed microbiom
 
 When seeds germinate, their microbes establish a foundation for the plant’s microbiome, influencing root development, disease resistance, and nutrient uptake. In highly domesticated *Cannabis* varieties, this process appears to be increasingly dominated by a narrower set of microbial species, potentially limiting the plant’s ability to respond to environmental challenges.
 
-The loss of these microbial allies raises important questions about how breeding decisions have influenced plant resilience. Among the missing microbes, We identified *Bacillus frigoritolerans* C1141, a bacterium highly associated to low-domestication *Cannabis* genotypes and nearly absent in modern cultivated varieties. This bacterium possesses a suite of plant-beneficial traits, including the ability to solubilize nutrients, enhance stress tolerance, and promote growth through phytohormone production.
+The loss of these microbial allies raises important questions about how breeding decisions have influenced plant resilience. Among the missing microbes, We identified *Bacillus frigoritolerans* C1141, a bacterium highly associated to low-domesticated *Cannabis* genotypes and nearly absent in modern cultivated varieties. This bacterium possesses a suite of plant-beneficial traits, including the ability to solubilize nutrients, enhance stress tolerance, and promote growth through phytohormone production.
 
 To test whether lost microbial diversity could be restored, we reintroduced *B. frigoritolerans* C1141 to *Cannabis* plants under both controlled and field conditions. The results were striking: treated plants grew 43% taller, developed nearly double the stalk diameter, and produced three times the biomass compared to untreated controls. These findings suggest that reintroducing beneficial microbes lost during domestication could serve as a powerful tool for improving crop performance without relying on synthetic inputs.
 
@@ -21,10 +21,12 @@ Rather than viewing plants as standalone organisms, we must recognize them as ho
 As we refine our understanding of microbial inheritance, we open new possibilities for transforming agriculture. Moving beyond a reliance on chemical interventions, we can leverage the power of plant-associated microbes to create more resilient and sustainable cropping systems. In the case of *Cannabis* — and potentially many other crops — the key to future agricultural success may lie not just in the genes of the plant, but in the invisible microbial partners it carries within its seeds.
 
 <br>
-<video width=300 height="300" controls>
+<center><img src="{{ site.baseurl }}/assets/cannabis-draw-mod1.png" class="img-thumbnail" width="300" height=auto alt="..."></center>
+
+<!-- <video width=300 height="300" controls>
   <source src="assets/wild-again-360p.mp4" type="video/mp4">
   <source src="assets/wild-again-360p.ogg" type="video/ogg">
 Your browser does not support the video tag.
-</video>
+</video> -->
 
-<!-- <center><img src="{{ site.baseurl }}/assets/cannabis-draw-mod1.png" class="img-thumbnail" width="300" height=auto alt="..."></center> -->
+<!-- https://vimeo.com/1024466638?share=copy -->
