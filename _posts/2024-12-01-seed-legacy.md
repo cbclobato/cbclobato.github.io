@@ -20,6 +20,8 @@ Rather than viewing plants as standalone organisms, we must recognize them as ho
 
 As we refine our understanding of microbial inheritance, we open new possibilities for transforming agriculture. Moving beyond a reliance on chemical interventions, we can leverage the power of plant-associated microbes to create more resilient and sustainable cropping systems. In the case of *Cannabis* — and potentially many other crops — the key to future agricultural success may lie not just in the genes of the plant, but in the invisible microbial partners it carries within its seeds.
 
+**Keywords:** *Cannabis* • Domestication • Endophytes • Seed microbiome • Sustainable plant cultivation
+
 <br>
 <center><img src="{{ site.baseurl }}/assets/cannabis-draw-mod1.png" class="img-thumbnail" width="300" height=auto alt="..."></center>
 

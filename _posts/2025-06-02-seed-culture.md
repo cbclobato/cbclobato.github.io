@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Microbial Interactions in Culturability of Seed Bacteria
+title: Microbial Interactions and Culturability of Seed Bacteria
 categories:
   - Research
 feature_image:
 ---
-<!-- Defining the Hidden Bacterial Fraction of Cannabis Seeds -->
 
 Seed-associated microorganisms contribute to plant health by influencing nutrient acquisition, disease resistance, and stress adaptation. Culturing microbes is an essential step in microbiome research, allowing for direct functional analysis and potential agricultural applications. However, not all microbes can be readily cultured in laboratory settings, limiting our understanding of their ecological roles.
 
@@ -15,13 +14,17 @@ Through this approach, we successfully cultivated bacteria from 36 genera within
 
 Culture-based methods revealed that a subset of the microbial community, consisting of nearly 60% of the bacterial taxa detected by sequencing, had no close cultured relatives. This included many rare and functionally significant bacteria, such as members of Acidobacteriae and Verrucomicrobiae. These groups are known to play critical roles in plant growth and nutrient cycling, yet their presence in seeds has been largely unexplored.
 
-**What if Microbial Interactions Have a Role in Culturability?**
-To further investigate why some microbes remain uncultured despite of their abundance, we conducted a network analyses of bacterial co-occurrence patterns. The results revealed that uncultured bacteria tend to be more central within the microbial network, exhibiting strong connections mainly to other uncultured taxa. This suggests that interspecies interactions — such as nutrient exchange or signaling mechanisms — may play a crucial role in determining whether a microbe can grow independently.
+**Do Microbial Interactions Have a Role in Culturability?**
+To further investigate why some microbes remain uncultured despite of their abundance, we conducted a network analyses based on bacterial co-occurrence patterns. The results revealed that uncultured bacteria tend to be more central within the microbial network, exhibiting strong connections mainly to other uncultured taxa. This suggests that interspecies interactions — such as nutrient exchange or signaling mechanisms — may play a crucial role in determining whether a microbe can grow independently.
 
 This study highlights the limitations of current culturing methods but also provides a framework for improving microbial isolation strategies. Our findings suggest that microbial culturability is strongly influenced by ecological interactions, not just individual metabolic traits. The proposed implications are expected to be extended beyond _Cannabis_ research. Seeds from diverse plant species likely harbor similarly complex microbial communities, with critical yet uncultured members influencing plant health. By refining cultivation techniques and leveraging microbial interactions, we may be able to recover missing bacterial taxa with potential applications in plant health and disease resistance.
 
+**Keywords:** *Cannabis* • Culturing • Endophytes • Seed microbiome • Microbial Dark-matter
+
 <br>
 <center><img src="{{ site.baseurl }}/assets/seeds.png" class="img-thumbnail" width="300" height=auto alt="..."></center>
+
+<!-- Defining the Hidden Bacterial Fraction of Cannabis Seeds -->
 
 <!-- Supported by research at the Institute of Environmental Biotechnology at TU Graz, I am investigating the distinction between cultured and uncultured bacterial fractions in Cannabis sativa seeds. While metagenomic approaches have expanded our understanding of microbial diversity, many seed-associated bacteria remain uncultured, limiting our ability to assess their ecological roles and potential agricultural applications. My work aims to identify which bacterial taxa can be recovered through culturing from Cannabis seeds and uncovering the factors that influence microbial culturability.
 
