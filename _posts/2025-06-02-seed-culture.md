@@ -18,7 +18,9 @@ To further investigate why some microbes remain uncultured despite of their abun
 
 This study highlights the limitations of current culturing methods but also provides a framework for improving microbial isolation strategies. Our findings suggest that microbial culturability is strongly influenced by ecological interactions, not just individual metabolic traits. The proposed implications are expected to be extended beyond _Cannabis_ research. Seeds from diverse plant species likely harbor similarly complex microbial communities, with critical yet uncultured members influencing plant health. By refining cultivation techniques and leveraging microbial interactions, we may be able to recover missing bacterial taxa with potential applications in plant health and disease resistance.
 
-**Keywords:** *Cannabis* • Culturing • Endophytes • Seed microbiome • Microbial Dark-matter
+**Keywords:** *Cannabis* • Culturing • Endophytes • Microbial Dark-matter • Microbial Interactions • Seed microbiome 
+
+Read the research **[here](https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-025-00731-4)**
 
 <br>
 <center><img src="{{ site.baseurl }}/assets/seeds.png" class="img-thumbnail" width="300" height=auto alt="..."></center>

@@ -22,7 +22,7 @@ As we refine our understanding of microbial inheritance, we open new possibiliti
 
 **Keywords:** *Cannabis* • Domestication • Endophytes • Seed microbiome • Sustainable plant cultivation
 
-Read the [research](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01951-5)
+Read the research **[here](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01951-5)**
 
 <br>
 <center><img src="{{ site.baseurl }}/assets/cannabis-draw-mod1.png" class="img-thumbnail" width="300" height=auto alt="..."></center>
