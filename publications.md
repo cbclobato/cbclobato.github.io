@@ -4,7 +4,7 @@ title: Publications
 order: 4
 ---
 
-## 2025
+### 2025
 
 **Carolina Lobato**, Ahmed Abdelfattah, Gabriele Berg & Tomislav Cernava. [Defining the cultured and uncultured bacterial fractions in *Cannabis* seeds](https://doi.org/10.1186/s40793-025-00731-4). Environmental Microbiome, Volume 20, Article number 68.
 
