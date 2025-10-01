@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Research
+title: Research Highlights
 order: 5
 ---
 
