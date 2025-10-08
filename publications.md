@@ -6,7 +6,7 @@ order: 4
 
 ### 2025
 
-Expedito Olimi, Regina Wuggenig, **Carolina Lobato**, Samuel Bickel, Peter Kusstatscher, Wisnu Adi Wicaksono, Angelika Battisti, Danny Coyne, John Adriko, Tomislav Cernava & Gabriele Berg. [Insights Into the Mondia whitei Microbiome Across Geographic Regions in Eastern Africa](https://doi.org/10.1111/1758-2229.70200). Environmental Microbiology Reports, Volume 17, Issue 5, e70200.
+Expedito Olimi, Regina Wuggenig, **Carolina Lobato**, Samuel Bickel, Peter Kusstatscher, Wisnu Adi Wicaksono, Angelika Battisti, Danny Coyne, John Adriko, Tomislav Cernava & Gabriele Berg. [Insights into the *Mondia whitei* Microbiome Across Geographic Regions in Eastern Africa](https://doi.org/10.1111/1758-2229.70200). Environmental Microbiology Reports, Volume 17, Issue 5, e70200.
 
 **Carolina Lobato**, Ahmed Abdelfattah, Gabriele Berg & Tomislav Cernava. [Defining the cultured and uncultured bacterial fractions in *Cannabis* seeds](https://doi.org/10.1186/s40793-025-00731-4). Environmental Microbiome, Volume 20, Article number 68.
 

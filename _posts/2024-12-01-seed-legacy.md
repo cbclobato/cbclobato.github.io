@@ -2,7 +2,7 @@
 layout: post
 title: Rediscovering the Microbial Legacy of Seeds
 categories:
-- Research
+- Carolina Lobato
 feature_image: 
 ---
 

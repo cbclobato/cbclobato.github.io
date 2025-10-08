@@ -2,7 +2,7 @@
 layout: post
 title: Cannabiom
 categories:
-- Projects
+- Carolina Lobato
 feature_image: #"/assets/cannabis-draw-mod1.png"
 ---
 

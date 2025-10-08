@@ -2,7 +2,7 @@
 layout: post
 title: Microbial Interactions and Culturability of Seed Bacteria
 categories:
-  - Research
+  - Carolina Lobato
 feature_image:
 ---
 
