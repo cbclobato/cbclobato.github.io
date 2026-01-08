@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Core Seed Microbiome as an Ecological Lens
+title: The Seed Core Microbiome as an Ecological Lens
 categories:
   - Carolina Lobato
 feature_image:
