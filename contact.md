@@ -15,11 +15,11 @@ order: 10
  <br>
 Heinrich Heine University Düsseldorf 
  <br>
-Universitätsstraße 1, Gebäude 26.24
+Universitätsstraße 1, Gebäude 22.07
 <br>
 40225 Düsseldorf, Germany
  <br>
 Tel: +49 211 81-15848
   <br>
    <br>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d20006.890871909454!2d6.792862538973838!3d51.18477818857919!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b8cb19eb5acb33%3A0xc9099993c2c45dde!2sInstitut%20f%C3%BCr%20Biological%20Data%20Science!5e0!3m2!1sen!2sde!4v1750522970203!5m2!1sen!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5613.229773859689!2d6.785815211229824!3d51.190385327683025!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b8cb66d6ab106d%3A0x967d3723c7900b47!2sZSL%20(Zentrum%20f%C3%BCr%20Synthetische%20Lebenswissenschaften)!5e1!3m2!1sen!2sde!4v1784038626849!5m2!1sen!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
