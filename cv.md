@@ -11,7 +11,7 @@ order: 3
 
   <embed src="/assets/CV26_CL.pdf" width="800px" height="800px" />
 
-	<center> <a href="/assets/CV26_CL.pdf" target="_blank">Find a PDF of my CV here.</a></center>
+	<center> <a href="/assets/CV26_CL1.pdf" target="_blank">Find a PDF of my CV here.</a></center>
   <!-- <center> <a class="logo" href="{{ site.baseurl }}/">
     <img src="/assets/microbes.png" alt="{{ site.title }} logo" /
     </a></center> -->
